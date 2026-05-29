@@ -1,0 +1,6 @@
+product_name,price,currency,availability,ai_category,ai_tags,ai_summary,source_url
+Wireless Mouse Pro,29.99,USD,in_stock,Computer Accessories,"mouse,wireless,office,ergonomic","Wireless ergonomic mouse suitable for office productivity.",https://example.com/products/mouse
+USB-C Hub 7-in-1,49.00,USD,in_stock,Computer Accessories,"usb-c,hub,adapter,hdmi","Multiport USB-C hub for laptops and workstations.",https://example.com/products/hub
+Laptop Stand Adjustable,39.50,USD,in_stock,Workspace Accessories,"laptop,stand,aluminum,desk","Adjustable aluminum laptop stand for improving desk ergonomics.",https://example.com/products/stand
+Noise Cancelling Headphones,89.99,USD,out_of_stock,Audio Accessories,"headphones,wireless,noise-cancelling,audio","Wireless noise-cancelling headphones for focused listening.",https://example.com/products/headphones
+Mechanical Keyboard TKL,75.00,USD,in_stock,Computer Accessories,"keyboard,mechanical,tkl,gaming,productivity","Compact mechanical keyboard suitable for productivity and gaming setups.",https://example.com/products/keyboard

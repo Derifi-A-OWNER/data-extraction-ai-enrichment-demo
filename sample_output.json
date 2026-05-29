@@ -1,0 +1,52 @@
+[
+  {
+    "product_name": "Wireless Mouse Pro",
+    "price": 29.99,
+    "currency": "USD",
+    "availability": "in_stock",
+    "ai_category": "Computer Accessories",
+    "ai_tags": ["mouse", "wireless", "office", "ergonomic"],
+    "ai_summary": "Wireless ergonomic mouse suitable for office productivity.",
+    "source_url": "https://example.com/products/mouse"
+  },
+  {
+    "product_name": "USB-C Hub 7-in-1",
+    "price": 49.0,
+    "currency": "USD",
+    "availability": "in_stock",
+    "ai_category": "Computer Accessories",
+    "ai_tags": ["usb-c", "hub", "adapter", "hdmi"],
+    "ai_summary": "Multiport USB-C hub for laptops and workstations.",
+    "source_url": "https://example.com/products/hub"
+  },
+  {
+    "product_name": "Laptop Stand Adjustable",
+    "price": 39.5,
+    "currency": "USD",
+    "availability": "in_stock",
+    "ai_category": "Workspace Accessories",
+    "ai_tags": ["laptop", "stand", "aluminum", "desk"],
+    "ai_summary": "Adjustable aluminum laptop stand for improving desk ergonomics.",
+    "source_url": "https://example.com/products/stand"
+  },
+  {
+    "product_name": "Noise Cancelling Headphones",
+    "price": 89.99,
+    "currency": "USD",
+    "availability": "out_of_stock",
+    "ai_category": "Audio Accessories",
+    "ai_tags": ["headphones", "wireless", "noise-cancelling", "audio"],
+    "ai_summary": "Wireless noise-cancelling headphones for focused listening.",
+    "source_url": "https://example.com/products/headphones"
+  },
+  {
+    "product_name": "Mechanical Keyboard TKL",
+    "price": 75.0,
+    "currency": "USD",
+    "availability": "in_stock",
+    "ai_category": "Computer Accessories",
+    "ai_tags": ["keyboard", "mechanical", "tkl", "gaming", "productivity"],
+    "ai_summary": "Compact mechanical keyboard suitable for productivity and gaming setups.",
+    "source_url": "https://example.com/products/keyboard"
+  }
+]

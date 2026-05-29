@@ -41,3 +41,30 @@ This demo will include:
 * `sample_clean.csv`
 * `sample_enriched.csv`
 * `sample_output.json`
+## How to Run the Demo
+
+This demo uses only Python standard library modules.
+
+Run:
+
+```bash
+python demo_pipeline.py
+Expected result:
+
+Data Extraction + AI Enrichment Demo
+Demo completed successfully.
+Demo Workflow
+
+The sample files show a simple delivery flow:
+
+sample_raw.csv
+→ sample_clean.csv
+→ sample_enriched.csv
+→ sample_output.json
+
+This represents the typical client workflow:
+
+Raw public source data
+→ cleaned structured data
+→ optional AI enrichment
+→ CSV/JSON delivery

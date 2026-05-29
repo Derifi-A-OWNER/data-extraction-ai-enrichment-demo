@@ -1,0 +1,6 @@
+product_name,price,currency,description,availability,source_url
+Wireless Mouse Pro,29.99,USD,Ergonomic wireless mouse for office work,in_stock,https://example.com/products/mouse
+USB-C Hub 7-in-1,49.00,USD,Multiport adapter with HDMI and USB 3.0,in_stock,https://example.com/products/hub
+Laptop Stand Adjustable,39.50,USD,Aluminum laptop stand for desk setup,in_stock,https://example.com/products/stand
+Noise Cancelling Headphones,89.99,USD,Wireless headphones with active noise cancellation,out_of_stock,https://example.com/products/headphones
+Mechanical Keyboard TKL,75.00,USD,Compact mechanical keyboard for productivity and gaming,in_stock,https://example.com/products/keyboard

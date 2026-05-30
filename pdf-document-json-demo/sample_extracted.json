@@ -1,0 +1,43 @@
+{
+  "document_type": "invoice",
+  "vendor": {
+    "name": "Northstar Office Supplies"
+  },
+  "invoice": {
+    "invoice_number": "INV-2026-0417",
+    "invoice_date": "2026-04-17",
+    "due_date": "2026-05-17",
+    "payment_terms": "Net 30"
+  },
+  "bill_to": {
+    "name": "Acme Operations Ltd.",
+    "address": "88 Market Street, Bangkok, Thailand"
+  },
+  "currency": "USD",
+  "line_items": [
+    {
+      "item": "Wireless Mouse Pro",
+      "quantity": 3,
+      "unit_price": 29.99,
+      "line_total": 89.97
+    },
+    {
+      "item": "USB-C Hub 7-in-1",
+      "quantity": 2,
+      "unit_price": 49.0,
+      "line_total": 98.0
+    },
+    {
+      "item": "Mechanical Keyboard TKL",
+      "quantity": 1,
+      "unit_price": 75.0,
+      "line_total": 75.0
+    }
+  ],
+  "totals": {
+    "subtotal": 262.97,
+    "tax": 18.41,
+    "total": 281.38
+  },
+  "notes": "Please include the invoice number with your payment."
+}

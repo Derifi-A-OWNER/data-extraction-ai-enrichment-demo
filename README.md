@@ -68,3 +68,18 @@ Raw public source data
 → cleaned structured data
 → optional AI enrichment
 → CSV/JSON delivery
+
+## Additional Demo: PDF / Document to Structured JSON
+
+This repository also includes a second demo focused on document data extraction:
+
+`pdf-document-json-demo/`
+
+This demo shows how raw invoice or document text can be converted into structured JSON and CSV outputs.
+
+Example workflow:
+
+```text
+sample_document_raw.txt
+→ sample_extracted.json
+→ sample_extracted.csv

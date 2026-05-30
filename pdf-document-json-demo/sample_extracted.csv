@@ -1,0 +1,4 @@
+document_type,vendor_name,invoice_number,invoice_date,due_date,bill_to_name,currency,item,quantity,unit_price,line_total,subtotal,tax,total
+invoice,Northstar Office Supplies,INV-2026-0417,2026-04-17,2026-05-17,Acme Operations Ltd.,USD,Wireless Mouse Pro,3,29.99,89.97,262.97,18.41,281.38
+invoice,Northstar Office Supplies,INV-2026-0417,2026-04-17,2026-05-17,Acme Operations Ltd.,USD,USB-C Hub 7-in-1,2,49.00,98.00,262.97,18.41,281.38
+invoice,Northstar Office Supplies,INV-2026-0417,2026-04-17,2026-05-17,Acme Operations Ltd.,USD,Mechanical Keyboard TKL,1,75.00,75.00,262.97,18.41,281.38

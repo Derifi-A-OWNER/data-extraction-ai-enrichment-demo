@@ -1,0 +1,23 @@
+INVOICE
+
+Vendor: Northstar Office Supplies
+Invoice Number: INV-2026-0417
+Invoice Date: 2026-04-17
+Due Date: 2026-05-17
+
+Bill To:
+Acme Operations Ltd.
+88 Market Street
+Bangkok, Thailand
+
+Line Items:
+1. Wireless Mouse Pro - Quantity: 3 - Unit Price: 29.99 USD - Line Total: 89.97 USD
+2. USB-C Hub 7-in-1 - Quantity: 2 - Unit Price: 49.00 USD - Line Total: 98.00 USD
+3. Mechanical Keyboard TKL - Quantity: 1 - Unit Price: 75.00 USD - Line Total: 75.00 USD
+
+Subtotal: 262.97 USD
+Tax: 18.41 USD
+Total: 281.38 USD
+
+Payment Terms: Net 30
+Notes: Please include the invoice number with your payment.
